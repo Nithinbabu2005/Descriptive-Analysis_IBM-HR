@@ -1,0 +1,13 @@
+# Ignore Jupyter Notebook checkpoints (these are messy backup files)
+.ipynb_checkpoints/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Optional: If you decide NOT to upload the data (good practice for huge files), uncomment the line below
+# data/
